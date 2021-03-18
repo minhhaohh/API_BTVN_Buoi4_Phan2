@@ -1,0 +1,14 @@
+CREATE DATABASE DemoCRUD
+GO
+
+USE DemoCRUD
+GO
+
+CREATE TABLE StudentsTb(
+	StudentId INT IDENTITY(1, 1) PRIMARY KEY,
+	Name NVARCHAR(50),
+	FatherName NVARCHAR(50),
+	RollNumber NVARCHAR(50),
+	Address NVARCHAR(200),
+	Mobile NVARCHAR(15)
+)

@@ -1,0 +1,10 @@
+D:\BT_API\Week4-Part2\TranMinhHao_5951071021\TranMinhHao_5951071021\bin\Debug\TranMinhHao_5951071021.exe.config
+D:\BT_API\Week4-Part2\TranMinhHao_5951071021\TranMinhHao_5951071021\bin\Debug\TranMinhHao_5951071021.exe
+D:\BT_API\Week4-Part2\TranMinhHao_5951071021\TranMinhHao_5951071021\bin\Debug\TranMinhHao_5951071021.pdb
+D:\BT_API\Week4-Part2\TranMinhHao_5951071021\TranMinhHao_5951071021\obj\Debug\TranMinhHao_5951071021.csprojAssemblyReference.cache
+D:\BT_API\Week4-Part2\TranMinhHao_5951071021\TranMinhHao_5951071021\obj\Debug\TranMinhHao_5951071021.Form1.resources
+D:\BT_API\Week4-Part2\TranMinhHao_5951071021\TranMinhHao_5951071021\obj\Debug\TranMinhHao_5951071021.Properties.Resources.resources
+D:\BT_API\Week4-Part2\TranMinhHao_5951071021\TranMinhHao_5951071021\obj\Debug\TranMinhHao_5951071021.csproj.GenerateResource.cache
+D:\BT_API\Week4-Part2\TranMinhHao_5951071021\TranMinhHao_5951071021\obj\Debug\TranMinhHao_5951071021.csproj.CoreCompileInputs.cache
+D:\BT_API\Week4-Part2\TranMinhHao_5951071021\TranMinhHao_5951071021\obj\Debug\TranMinhHao_5951071021.exe
+D:\BT_API\Week4-Part2\TranMinhHao_5951071021\TranMinhHao_5951071021\obj\Debug\TranMinhHao_5951071021.pdb
